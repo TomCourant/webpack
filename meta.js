@@ -32,9 +32,6 @@ module.exports = {
       "message": "Project slug",
       "default": "yyyy/mm/name-of-the-project"
     },
-    "bla": {
-
-    },
     "author": {
       "type": "string",
       "message": "Author"
