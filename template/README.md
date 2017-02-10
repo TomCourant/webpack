@@ -2,6 +2,8 @@
 
 > {{ description }}
 
+[url de l'app](http://www.liberation.fr/apps/{{ slug }}/)
+
 ## Build Setup
 
 ``` bash
