@@ -26,6 +26,12 @@ module.exports = {
       "message": "Project description",
       "default": "A Vue.js project"
     },
+    "slug": {
+      "type": "string",
+      "required": false,
+      "message": "Project slug",
+      "default": "yyyy/mm/name-of-the-project"
+    }
     "author": {
       "type": "string",
       "message": "Author"
